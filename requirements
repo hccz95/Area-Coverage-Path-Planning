@@ -1,6 +1,5 @@
 numpy
-math
 matplotlib
 scipy
 ffmpeg-python
-pickle
+tikzplotlib
